@@ -1,0 +1,32 @@
+{
+  "name": "ao",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fodnz/ao.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "javascript",
+    "zapo-js"
+  ],
+  "author": "fodnz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fodnz/ao/issues"
+  },
+  "homepage": "https://github.com/fodnz/ao#readme",
+  "dependencies": {
+    "@zapo-js/native": "^0.1.0",
+    "@zapo-js/store-sqlite": "^1.3.0",
+    "dotenv": "^18.0.7",
+    "zapo-js": "^1.10.0"
+  }
+}
